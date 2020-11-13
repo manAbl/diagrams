@@ -1,0 +1,1 @@
+Aqui van todos los diagramas que haga en el curso de platzi de My SQL.
